@@ -29,6 +29,7 @@
   <!-- Package settings -->
   <PropertyGroup>
     <PackageProjectUrl>https://github.com/$(GITHUB_REPOSITORY)</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/$(GITHUB_REPOSITORY)</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
